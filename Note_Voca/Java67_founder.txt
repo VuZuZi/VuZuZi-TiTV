@@ -1,0 +1,4 @@
+constructor là hàm tạo ra 1 đối tượng
+pathname: đường dẫn
+exists: tồn tại
+
