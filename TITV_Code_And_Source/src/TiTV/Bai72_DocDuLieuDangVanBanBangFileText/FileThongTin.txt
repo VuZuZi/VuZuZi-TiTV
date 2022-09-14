@@ -1,0 +1,2 @@
+URL tham khảo PrintWriter: 
+https://hoclaptrinh.vn/posts/doc-file-trong-java-voi-lop-bufferedreader
