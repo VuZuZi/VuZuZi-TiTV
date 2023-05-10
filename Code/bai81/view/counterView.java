@@ -26,7 +26,7 @@ public class counterView extends JFrame {
     public void init() {
         this.setTitle("Counter");
         this.setSize(300,300);
-        this.setLocationRelativeTo(null);
+//        this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         ActionListener ac =new CounterListioner(this);

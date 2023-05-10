@@ -1,0 +1,3 @@
+setForeground(Color c) => màu chữ
+setBackground(Color c)=> màu nền
+setOpaque(boolean) => tô màu cả viền

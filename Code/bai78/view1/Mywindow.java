@@ -1,4 +1,4 @@
-package TITV_learning.Code.bai78.view;
+package TITV_learning.Code.bai78.view1;
 
 import javax.swing.*;
 
